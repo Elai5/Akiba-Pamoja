@@ -9,10 +9,11 @@ Akiba-Pamoja is a React-based application aimed at...
 - Example branch name: `feature/navbar`.
 
 ## Setup Instructions
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Create a `.env` file in the root directory (see `.env.example` for required variables).
-4. Run `npm run dev` to start the development server.
+1. Clone the repository. `https://github.com/Elai5/Akiba-Pamoja.git`
+2. Navigate to Akiba Pamoja
+3. Run `npm install` to install dependencies.
+4. Create a `.env` file in the root directory (see `.env.example` for required variables). // up for discussion
+5. Run `npm run dev` to start the development server.
 
 ## Environment Variables
 - The `.env` file is ignored in version control.
