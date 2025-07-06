@@ -1,6 +1,25 @@
-<!-- @format -->
-
 # Akiba-Pamoja
 
-!Important
-all work to be done under feature branch eg "feature/navbar" under dev branch
+## Project Overview
+Akiba-Pamoja is a React-based application aimed at...
+
+## Branching Strategy
+- All work should be done on feature branches.
+- Feature branches should be created from `dev`.
+- Example branch name: `feature/navbar`.
+
+## Setup Instructions
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Create a `.env` file in the root directory (see `.env.example` for required variables).
+4. Run `npm run dev` to start the development server.
+
+## Environment Variables
+- The `.env` file is ignored in version control.
+- Share `.env.example` to indicate which variables are needed.
+
+## Running Tests
+*No tests are currently set up.*
+
+## Folder Structure
+Check out project architecture.md for more information
