@@ -10,7 +10,7 @@ This document explains the structure of the Akiba Pamoja React project. It is de
 src/
 ├── App.jsx                # Root component for the app
 ├── main.jsx               # Entry point rendered by Vite
-├── App.css, index.css     # Global and base styles
+├── index.css              # Global and base styles
 │
 ├── assets/                # Images, icons, and static assets
 │
